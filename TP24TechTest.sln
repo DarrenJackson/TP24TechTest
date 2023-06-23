@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP24", "TP24\TP24.csproj", "{270242D4-C837-4A6A-8D09-F221BDA00967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP24.Tests", "TP24.Tests\TP24.Tests.csproj", "{24A4E7CC-66E4-479A-83F8-0E12EDE2DDD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{270242D4-C837-4A6A-8D09-F221BDA00967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270242D4-C837-4A6A-8D09-F221BDA00967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270242D4-C837-4A6A-8D09-F221BDA00967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270242D4-C837-4A6A-8D09-F221BDA00967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A4E7CC-66E4-479A-83F8-0E12EDE2DDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A4E7CC-66E4-479A-83F8-0E12EDE2DDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A4E7CC-66E4-479A-83F8-0E12EDE2DDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A4E7CC-66E4-479A-83F8-0E12EDE2DDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
