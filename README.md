@@ -1,5 +1,5 @@
 ## TP24 Tech Test
-Probably spent about 4 hours doing this. 
+Probably spent about 4 hours doing this. The receivables API came together quickly but when it came to the data summary for the invoices I had a few discussions with myself.
 Made up some rules about extracting some summaries about the data without fully understanding the domain.
 
 Shows basic CRUD type API for managing the receivables, and a data summary API for returning invoices for a debtor. Invoices returned can be specified as open, close or neither (returning all invoices for that debtor).
