@@ -8,6 +8,8 @@ All data is stored in memory for the purposes of this test.
 
 Further API developments could be made to extract invoices based on dates and to refactor the remove logic from payload controller.
 
+It was devoloped using Rider and used Swagger pages to drive the API for testing.
+
 ## Payload Assumptions
 
 * Reference: unique identifier for a payload
@@ -21,7 +23,7 @@ Payload API to
 Invoice API to return a list of invoices for a debtor reference, including:
 * DebtorReference,
 * List of invoices
-* Total of all return invoice due amount 
-* Total of all returned invoice paid amount
+* Total of all returned invoices due amount 
+* Total of all returned invoices paid amount
 
 
